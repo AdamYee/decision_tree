@@ -1,0 +1,5 @@
+Machine Learning class project.
+
+In this project you will investigate Quinlan’s ID3 learning algorithm (described in the Quinlan reading). Your assignment
+has multiple parts: 1) you’ll implement ID3, including a stochastic pruning algorithm, 2) you’ll run some experiments
+with ID3, and 3) you will plot your results in ROC and recall-precision curves.
